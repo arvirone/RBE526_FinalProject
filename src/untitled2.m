@@ -1,0 +1,1 @@
+scatter(readmatrix('trianglPath.csv'))
